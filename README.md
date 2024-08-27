@@ -10,7 +10,7 @@ and connect with the contributors.
 
 -   [Continuum CSS](https://github.com/continuum-frameworks/continuum-css) - The
     lightweight yet comprehensive styling framework.
--   [Continuum CSS Docs](https://continuum-frameworks.github.io/continuum-css) -
+-   [Continuum CSS Docs](https://continuum-frameworks.github.io/frameworks/css) -
     The lightweight yet comprehensive styling framework's documentation website.
 
 ## Connect with Us
